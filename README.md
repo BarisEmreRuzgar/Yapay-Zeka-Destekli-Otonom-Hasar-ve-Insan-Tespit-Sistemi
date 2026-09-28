@@ -1,0 +1,1 @@
+# Yapay-Zeka-Destekli-Otonom-Hasar-ve-nsan-Tespit-Sistemi
